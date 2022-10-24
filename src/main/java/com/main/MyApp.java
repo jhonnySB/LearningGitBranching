@@ -9,7 +9,7 @@ public class MyApp {
 		varMainBranch = 0;
 	}
 
-	public static void func1() {
-		int name;
+	public static void myFunc() {
+		int i;
 	}
 }
