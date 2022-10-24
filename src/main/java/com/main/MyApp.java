@@ -11,5 +11,6 @@ public class MyApp {
 
 	public static void myFunc() {
 		int i;
+		String str;
 	}
 }
