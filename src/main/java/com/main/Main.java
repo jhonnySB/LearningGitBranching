@@ -8,9 +8,10 @@ public class Main {
 	
 	public static void main(String[] args) {
 		str = "";
-		varMainBranch = 0;
-		str.concat("hello world");
 		// ...
+		
+		varMainBranch = ' ';
+		
 		// ...
 	}
 
