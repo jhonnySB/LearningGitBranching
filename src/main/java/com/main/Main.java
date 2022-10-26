@@ -10,8 +10,7 @@ public class Main {
 		str = "";
 		varMainBranch = 0;
 		str.concat("hello world");
-		// ...
-		// ...
+		str.concat("some str");
 	}
 
 	
