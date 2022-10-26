@@ -8,11 +8,8 @@ public class Main {
 	
 	public static void main(String[] args) {
 		str = "";
-		// ...
-		
-		varMainBranch = ' ';
-		
-		// ...
+		varMainBranch = '9';
+		str.concat(str+"str");
 	}
 
 	
